@@ -98,8 +98,6 @@ Pull requests are welcome. For major changes, open an issue first to discuss wha
 
 💼 Premium educator & journalist tools.
 
-📄 License
-LICENSE
 
 🙏 Acknowledgements
 FastAPI
